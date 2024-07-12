@@ -2,6 +2,10 @@
 To add itineraries and Point of Interests related to the Abruzzo National Park, run the `pna-data.sql` sql script file in the `rastapms` database.
 You can use a terminal or `phpmyadmin` if installed.
 
+## System Requirements
+As a prerequisite, you must follow the installation instructions for the Rasta PMS (https://github.com/gssi/official-rasta-pms/Install.md)
+
+
 
 ## Gran Sasso Science Institute Team
 - Sadia Azam
