@@ -3,3 +3,14 @@ To add itineraries and Point of Interests related to the Abruzzo National Park, 
 You can use a terminal or `phpmyadmin` if installed.
 
 
+## Gran Sasso Science Institute Team
+- Sadia Azam
+- Maria Giovanna Brandano
+- Gianlorenzo D'Angelo
+- Martina De Sanctis
+- Amleto Di Salle
+- Paola Inverardi
+- Ludovico Iovino
+- Rickson Pereira
+- Claudio Pompilio
+- Franco Raimondi
