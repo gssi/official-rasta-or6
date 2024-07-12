@@ -3,7 +3,7 @@ To add itineraries and Point of Interests related to the Abruzzo National Park, 
 You can use a terminal or `phpmyadmin` if installed.
 
 ## System Requirements
-As a prerequisite, you must follow the installation instructions for the Rasta PMS (https://github.com/gssi/official-rasta-pms/Install.md)
+As a prerequisite, you must follow the installation instructions for the Rasta PMS (https://github.com/gssi/official-rasta-pms/blob/main/Install.md)
 
 
 
