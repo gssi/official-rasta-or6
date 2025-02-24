@@ -11,7 +11,7 @@ You can use a terminal or `phpmyadmin` if installed.
 ### System Requirements
 Docker has to be installed to your machine
 
-### Start Rasta PMS application
+### Add itineraries and Point of Interests
 Open a terminal in the directory where you downloaded the source code and type the following command:
 
     ```
