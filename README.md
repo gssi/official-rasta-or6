@@ -13,17 +13,13 @@ Docker has to be installed to your machine
 
 ### Add itineraries and Point of Interests
 Open a terminal in the directory where you downloaded the source code and type the following command:
-
     ```
     docker exec -it mysql-db mysql -u root -prootpassword rastapms < ./pna-data.sql
     ```
 If you are using Windows you should use the following command:
-
     ```
     type .\pna-data.sql | docker exec -i mysql-db mysql -u rastapms -prastapms rastapms
     ```
-
-
 
 ## License
 Rasta PMS is Open Source software released under the [Apache 2.0 license](/LICENSE.md).
