@@ -15,7 +15,7 @@ Docker has to be installed to your machine
 Open a terminal in the directory where you downloaded the source code and type the following command:
 
     ```
-    docker exec -it mysql-db mysql -u root -prootpassword rastapms --default-character-set=utf8mb4 < ./pna-data.sql
+    docker exec -i mysql-db mysql -u rastapms -prastapms rastapms --default-character-set=utf8mb4 < ./pna-data.sql
     ```
 
 If you are using Windows you should use the following command:
